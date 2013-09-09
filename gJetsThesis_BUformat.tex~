@@ -1,0 +1,259 @@
+% The following is necessary to satisfy BU grad school guidleines.
+%\documentclass{ms}     % comment out if a PhD dissertation
+\documentclass{phd}     % comment out if a MS thesis
+
+\voffset=-.6875in
+\setlength{\textheight}{9.65in}
+
+% Put your specific packages here.
+\usepackage{amssymb, amsmath, amsfonts, graphicx}
+
+% Define your theoremstyles, numbering here.
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}{Corollary}
+\newtheorem{lemma}{Lemma}
+\newtheorem{prop}{Proposition}
+\newtheorem{result}{Result}
+
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+\newtheorem{remark}{Remark}
+\newtheorem{example}{Example}
+\newtheorem*{ack}{Acknowledgment}
+
+\numberwithin{equation}{chapter}
+\numberwithin{theorem}{chapter}
+\numberwithin{definition}{chapter}
+\numberwithin{lemma}{chapter}
+\numberwithin{corollary}{chapter}
+\numberwithin{prop}{chapter}
+\numberwithin{remark}{chapter}
+\numberwithin{example}{chapter}
+\numberwithin{table}{chapter}
+
+% Put your definitions, symbols, abbreviations here.
+
+\def\hs{\hspace{4 pt}}
+\def\vs{\vspace*{6 pt}}
+
+
+%% Permit the use of postscript figures within the document.
+%\usepackage{epsfig}
+
+\usepackage{geometry} % see geometry.pdf on how to lay out the page. There's lots.
+% \geometry{landscape} % rotated page geometry
+\usepackage{xspace}
+\usepackage{rotating}
+%\usepackage{epsfig}
+%get font color11s
+\usepackage{color}
+\usepackage{graphicx}
+%\usepackage{feynmp}    % for Feynman diagrams
+\usepackage{lineno}    % to get line number for proof reading
+\usepackage{subfigure} %to include more than 1 figure side-by-side
+\usepackage{multirow}
+\usepackage{textcomp}  %needed this to get this prime sign in electroweak covariant matrix
+
+
+\usepackage{ifthen}   %to use
+\newboolean{bREMEXTRAFORMATTING}
+\setboolean{bREMEXTRAFORMATTING}{true}
+%comment the first line for BU formatting without the table column heading without bold face. Enable the other to keep it nice for FNAL submission.
+%\newcommand{\BUbf}[1]{{#1}}
+\newcommand{\BUbf}[1]{{\bf #1}\xspace}
+
+
+% \usepackage{hyperref} %does not work with amsthm which phd.cls is based on. see http://newsgroups.derkeiler.com/Archive/Comp/comp.text.tex/2010-12/msg00760.html
+% \usepackage{backrefx}
+
+
+%insert line number for proof reading. comment out these when making the final pdf
+%\linenumbers
+%\leftlinenumbers*
+
+%widow/orphan control
+\widowpenalty=10000
+\clubpenalty=10000
+%to single space enumerated lists
+%\usepackage{mdwlist} %did not work
+% \usepackage{enumitem}
+%  \setlist{nolistsep,leftmargin=*}
+\setlength{\itemsep}{4ex}
+%%%%%%%%%%%% TO MAKE INDEX
+% \usepackage{makeidx}
+
+%%%%%%%%%%% TO CENTER TABLE CAPTION
+%\usepackage[options]{caption}
+\usepackage{caption}
+\captionsetup[table]{justification=centering}
+
+\input{CustomCommands.tex}  % this is where all my commands are defined
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% END OF MY STUFF
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Front matter
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{Search for Anomalous Production of Photon + Jets + Missing Transverse Energy in \ppbar Collisions at $\sqrt{s}=1.96$~TeV Using the CDF II Detector}
+\author{Samantha K. Hewamanage}
+\degrees{M.S.} % degrees held before this Ph.D.
+
+\mentor{Jay R. Dittmann, Ph.D.} % your Ph.D. advisor and degree
+\reader{Gregory A. Benesh, Ph.D.} % your committee members and degree in alphabetical order
+\readerThree{Kenichi Hatakeyama, Ph.D.}
+\readerFour{Wickramasinghe Ariyasinghe, Ph.D.}
+\readerFive{David Ryden, Ph.D.}
+
+\confDate{May 2011} % month and year of actual graduation
+
+\makeCopyrightPage
+
+%% You may have to change these but probably not.
+\graduateDean{J. Larry Lyon, Ph.D.}
+\deptChair{Gregory A. Benesh, Ph.D.}
+
+% Uncomment to tell LaTeX that there is no list of tables or list of figs.
+%\emptyLoT
+%\emptyLoF
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ABSTRACT   make this fit on ONE page for best results
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\abstract
+{
+\input{Abstract.tex}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ACKNOWLEDGEMENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\acknowledgements{
+I would like to start by expressing my sincere gratitude to my advisor Dr. Jay Dittmann for his continuous support of my Ph.D. study and research, and for his patience, advice, motivation, sharing his knowledge and supporting me during difficult times.
+
+I am ever in debt to Dr. Raymond Culberston and Dr. Sasha Pronko at Fermilab for their continuous support and advice without which this analysis would have been impossible. I am very thankful for their time spent joining regular meetings and numerous private discussions. I also want to thank Dr. Nils Krumnack who guided me when I was starting this study at the Femilab. I am grateful for Dr. Azeddine Kasmi for his invaluable support and encouragement.
+
+I would like to thank the members of my thesis committee: Prof. Gregory Benesh, Prof. Wickramasinghe Ariyasinghe, Prof. Kenichi Hatakeyama, and Prof. David Ryden, for their invaluable comments and suggestions.
+
+I am very grateful to Prof. Benesh, the faculty and staff of the Physics Department for giving me the oppertunity to excel and for their continuous support. I want to express my sincere gratitude to Dr. Ariyasinghe for getting me through tough times and being there for me and my family. Many thanks to Prasanga and Dr. Robert Flowers for their invaluable friendship and help. I would like thank all my friends Martin, Karen, and Zhenbin for their company and help.
+
+Last but not least, I thank my family for their support and encouragement. I thank my parents without whom this journey would have not started. Much thanks to my wife who waited patiently throughout and supported me at every step. Many thanks to my daughters and son for their love and keeping me sane through the hard times.
+}
+
+\dedication{
+\begin{center} \textit{To my parents and to my wife Vajira, daughters Amaya and Senithi, and my new born son, Hiruka}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DOCUMENT BODY
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\pagenumbering{arabic}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Introduction}
+%\bold{The idea of model independent search. pros and cons.}
+%\input{Introduction.tex}
+\input{Introduction2.tex}
+\label{chp:Intro}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Theory}\label{chp:Theory}
+\input{Theory.tex}
+
+\chapter{The Experiment}\label{chp:Experiment}
+\input{Experiment.tex}
+
+
+\chapter{Monte Carlo Event Simulation}\label{chp:MCSimulation}
+\input{MonteCarloSimulation}
+
+\chapter{Object Reconstruction and Identification}\label{chp:ObjectReco}
+\input{ObjectReconstruction}
+
+
+\chapter{Datasets and Event Selection}\label{chp:EventSelection}
+\input{EventSelection.tex}
+
+
+\chapter{Backgrounds}\label{chp:Backgrounds}
+\input{Backgrounds.tex}
+
+\chapter{Systematic Uncertainties}\label{chp:Systematics}
+\input{Systematics.tex}
+
+
+\chapter{Results}\label{chp:Results}
+\input{Results.tex}
+
+\chapter{Conclusions}\label{chp:Conclusions}
+\input{Conclusions.tex}
+
+%\chapter{Brief Notes on Future Work}
+%[WHAT CAN BE DONE TO IMPROVE AND EXPAND THIS ANALYSIS]
+%[ALSO IN TERMS OF PUBLISHING RESULTS ETC]
+
+%%%%%%%%%%% This is a hack to get a separator page that
+%%%%%%%%%%% bears the word ``APPENDICES''
+\pagebreak
+\mbox{}
+\vfill
+\begin{center}
+APPENDICES
+\end{center}
+\vfill
+\pagebreak
+
+\appendix
+\chapter{Determination of Signal Photon Fraction using CES/CPR Detectors}\label{app:CESCPRMtd}
+\input{Appendix_CESCPRMtd.tex}
+
+\chapter{Missing Energy Resolution Model}\label{app:MetModel}
+\input{MetModel.tex}
+
+
+\clearpage
+\newpage
+%\appendix
+%\chapter{Appendix A}
+%\section{Poisson Statistics}
+%\chapter{Poisson Statistics}
+%In scattering experiments the events generated are rare and independent of any other event that is generated. Hence, the experiments are better described by {\bf Poisson Statistics}.
+
+%A {\bf Poisson experiment is a statistical experiment} that has the following properties:
+%\begin{enumerate}
+%\item {The event can be counted in whole numbers}
+%\item {Occurance of any event is indepenent of any other event. i.e. occurance of an event does not increase or decreaser the chance of another.}
+%\item {The average frequency of occurance for a given time period is known}
+%\item {last}
+%\end{enumerate}
+
+%The Poisson distribution is given by
+
+%\begin{eqnarray*}
+%p_{\mu}(\nu) &=& e^{-\mu} \frac{\mu^{\nu}}{\nu!}\\
+%p_{\mu} &=& \mathrm{\nu~events~in~any~definite~time~interval} \\
+%\mu &=& \mathrm{average~number~of~events~expected} \\
+%\end{eqnarray*}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\begin{thebibliography}{99}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\bibitem{am}B.D.O Anderson and J.B. Moore.  New results in linear system theory.  {\em SIAM Journal on Control and Optimization}, 6(1):121-130, 1968.
+%\end{thebibliography}
+
+\input{Bibliography.tex}
+
+
+%\addcontentsline{toc}{section}{Index}
+%\printindex
+
+\end{document}

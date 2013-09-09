@@ -1,0 +1,49 @@
+\vspace{0.015\textheight}
+The signal (true) photon fraction can be determined as described below using the CES and CPR detector information. It provides an independent estimate of the signal (prompt photon) fraction.
+
+The CES method uses the lateral shower profile of the photon candidates measured by the CES detector to estimate the prompt photon fraction. This method is valid only up to $\sim$35~GeV; above that the shower profile of mesons (for example, $\pi^{0}\to\gamma\gamma$) becomes indistinguishable from prompt photons. The CPR method is based on the difference in the conversion rate of photons ($\sim$60\%) and background ($\sim$80\%) in the material before the calorimeter. Although the CPR method is applicable to any photon \pt, it is used only for $\pt>35$~\epUnits.
+
+Assume a sample containing $N_{\gamma-candidate}$ photon candidates. This includes both signal photons ($N_{sig}$) and background (fake) photons from decays of mesons in jets ($N_{bg}$).
+\begin{equation}
+ N_{\gamma-candidate} = N_{sig} + N_{bg}
+ \label{eqa:cprwgt_1}
+\end{equation}
+
+Next, a special requirement is designed that is tighter than the standard photon selection requirements and has different efficiencies for the signal ($\epsilon_{sig}$) and the background ($\epsilon_{bg}$) (see Table~\ref{tab:CESCPRmtd_SpecialCuts}).
+
+\begin{table}[!h]
+\caption{Special requirements used to measure the signal and background efficiencies.}
+\label{tab:CESCPRmtd_SpecialCuts}
+\centering
+\begin{tabular}{cc}
+ \hline
+ \BUbf{\et of photon candidate} & \BUbf{Requirement}\\
+ \hline
+ \etl{35} & CES $\chi^{2}<4$\\
+ \etgte{35} & CPR ADC counts $>$ 125\\ %this for run IIb data only.
+ \hline
+\end{tabular}
+\end{table}
+
+Now the average efficiency ($\epsilon$) is:
+\begin{equation}
+N_{\gamma-candidate}\times \epsilon = N_{sig}\times \epsilon_{sig} + N_{bg}\times \epsilon_{bg}
+ \label{eqa:cprwgt_2}
+\end{equation}
+
+If $\epsilon_{sig}$ and $\epsilon_{bg}$ are predetermined by other means, the above equations can be solved for the number of signal photon events using:
+\begin{equation}
+\epsilon_{sig} = \frac{\epsilon - \epsilon_{bg}}{\epsilon_{sig} - \epsilon_{bg}} N_{\gamma-candidate}
+ \label{eqa:cprwgt_3}
+\end{equation}
+
+Since the efficiencies depend on the photon's energy, momentum direction, number of vertices in the event, etc., $\epsilon_{sig}$ and $\epsilon_{bg}$ can vary for every event. Hence, Equation~\ref{eqa:cprwgt_3} can be expanded to a sum of signal photon weights that vary for every event:
+\begin{equation}
+ \epsilon_{sig} = \sum_i W_i = \sum_i \frac{\epsilon^{i} - \epsilon_{bg}^{i}}{\epsilon_{sig}^{i} - \epsilon_{bg}^{i}} N_{\gamma-candidate}
+ \label{eqa:cprwgt_4}
+\end{equation}
+\noindent where $\epsilon^i$ is one or zero depending on if photon candidate $i$ satisfies the special requirement or not, and $\epsilon_{sig}^i$ and $\epsilon_{bg}^i$ are signal and background efficiencies given the kinematic properties of the photon candidate $i$. The $\epsilon_{sig}^i$ and $\epsilon_{bg}^i$ can be parameterized from independent MC event samples as a function of photon variables like its energy, momentum direction, etc. From that, one can determine the ratio $N_{sig}/N_{\gamma-candidate}$ and hence the fraction of signal photons in the sample \cite{pap:PhotonIDAndCESCPR}.
+
+The CES/CPR method has significant systematic uncertainties which increase with $p_{T}^{\gamma}$. The CES method is highly sensitive to slight differences between the electron and the photon showers. It should be noted that the shower shape used to identify photons is derived from a test beam, which is different from actual Tevatron conditions. The background composition contributes about $\sim$8.5\% at $p_{T}^{\gamma}=40$~\epUnits to the total systematic uncertainty.
+
+The CPR method has two major systematic uncertainties that depend on $p_{T}^{\gamma}$. It is possible for a part of the EM shower to evolve at very large angles and almost backwards (relative to the incoming photons). This backscattered shower may convert and produce extra hits in the CPR, which will enhance the measurement of $\epsilon_{bg}$ with a rate that increases with the energy of the photon. This requires a correction to the background hit rate, which is derived using a fit to the isolation energy.

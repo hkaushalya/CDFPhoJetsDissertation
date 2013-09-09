@@ -1,0 +1,44 @@
+\contentsline {part} {\tablenameToC }{\relax }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Summary of the four fundamental forces with their relative strengths and range. The relative strength is given with respect to the strength of the graviton. This table should only be used to understand the concepts involved, as the exact numbers are under constant scrutiny.}}{5}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces The particles (fields) in the MSSM and their quantum numbers. Only one generation of quarks and leptons are shown. For each lepton, quark, and Higgs supermultiplet, there is a corresponding antiparticle multiplet of charge-conjugated fermions and their associated scalar partners \cite {pap:PDG}.}}{20}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Calorimeter parameters, thicknesses of active and passive materials, and energy resolutions.}}{53}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Shower maximum detector parameters\nobreakspace {}\cite {pap:CDFCemCalorimeter}.}}{53}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Overview of the EM Timing system hardware and performance.}}{54}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Performance of the XFT system as measured by data.}}{57}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Standard Tight and Loose Photon selection requirements.}}{79}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Photon-like electron selection requirements. The photon-like electron selection requirements are very similar to the photon selection requirements except that one extra high-\unhbox \voidb@x \hbox {$p_T$}\xspace track is allowed. This is due to the fact that an electron candidate can fake a photon if the associated track is not reconstructed. }}{81}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Standard loose central electron selection requirements.}}{84}
+\contentsline {table}{\numberline {5.4}{\ignorespaces Standard loose plug electron selection requirements.}}{84}
+\contentsline {table}{\numberline {5.5}{\ignorespaces Underlying event corrections to the jet energy for different clustering cone sizes.}}{89}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Trigger paths for central (CEM) photons.}}{93}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Leading-order {\textsc {pythia}}\xspace MC samples used to model backgrounds.}}{97}
+\contentsline {table}{\numberline {6.3}{\ignorespaces Summary of data event selection.}}{99}
+\contentsline {table}{\numberline {6.4}{\ignorespaces Selection of photon + jet events from data. The selection requirements are applied in the listed order. After each selection requirement is applied, the number of remaining events is given.}}{99}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces Cross sections of the two dominant contributions to $\gamma $ + jet production and their contributions to the total cross section.}}{104}
+\contentsline {table}{\numberline {7.2}{\ignorespaces Event selection requirements to model the SM $\gamma $ background.}}{105}
+\contentsline {table}{\numberline {7.3}{\ignorespaces Dominant decay modes of light mesons ({$\pi ^{0}$}\xspace and $\eta $) as a fraction of the full decay width.}}{106}
+\contentsline {table}{\numberline {7.4}{\ignorespaces Sideband event selection requirements to model the QCD multijet background.}}{108}
+\contentsline {table}{\numberline {7.5}{\ignorespaces Event selection requirements for modeling the SM electroweak background.}}{110}
+\contentsline {table}{\numberline {7.6}{\ignorespaces $W$ + jets event selection requirements to correct for multiple interactions and the underlying event in \unhbox \voidb@x \hbox {$W\to e+\nu $}\xspace , \unhbox \voidb@x \hbox {$W\to \mu +\nu $}\xspace , and \unhbox \voidb@x \hbox {$W\to \tau +\nu $}\xspace MC events.}}{111}
+\contentsline {table}{\numberline {7.7}{\ignorespaces $Z$ + jets event selection requirements to correct for multiple interactions in \unhbox \voidb@x \hbox {$Z\to e^+e^-$}\xspace , \unhbox \voidb@x \hbox {$Z\to \mu ^+\mu ^-$}\xspace , and \unhbox \voidb@x \hbox {$Z\to \tau ^+\tau ^-$}\xspace MC events.}}{115}
+\contentsline {table}{\numberline {7.8}{\ignorespaces Event selection requirements to model SM the Di-$\gamma $ background.}}{117}
+\contentsline {table}{\numberline {7.9}{\ignorespaces Beam halo selection requirements. The quantity \texttt {seedWedge} is defined as number of EM towers (\unhbox \voidb@x \hbox {$E_T$}\xspace \nobreakspace {}$>$\nobreakspace {}0.1 GeV\xspace ) in the same wedge as the $\gamma $, and \texttt {Nhad} is defined as the number of plug HAD towers (\unhbox \voidb@x \hbox {$E_T$}\xspace \nobreakspace {}$>$\nobreakspace {}0.1 GeV\xspace ) in the same wedge as the $\gamma $. These selection requirements are orthogonal to the photon selection requirements.}}{121}
+\contentsline {table}{\numberline {7.10}{\ignorespaces Summary of the event selection used to measure the rejection power of the beam halo selection requirements.}}{122}
+\contentsline {table}{\numberline {7.11}{\ignorespaces Summary of the event selection used to model the beam halo background.}}{125}
+\contentsline {table}{\numberline {7.12}{\ignorespaces Summary of the event selection used to estimate and model the cosmic photon background.}}{126}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {8.1}{\ignorespaces {\textsc {pythia}}\xspace parameters used with PARP(3)=1 to generate different MC samples to derive the ISR/FSR systematic uncertainties.}}{134}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {9.1}{\ignorespaces Summary of background estimates for the \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace and \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $2 jets}\xspace data samples evaluated by \unhbox \voidb@x \hbox {Method A}. Where two uncertainties are quoted, the first is statistical and the second is systematic.}}{149}
+\contentsline {table}{\numberline {9.2}{\ignorespaces Summary of background estimates for the \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace + \unhbox \voidb@x \hbox {$\hbox to\z@ {\kern .15em /\hss }E_T$}\xspace $>$\nobreakspace {}20 GeV\xspace and \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $2 jets}\xspace + \unhbox \voidb@x \hbox {$\hbox to\z@ {\kern .15em /\hss }E_T$}\xspace $>$\nobreakspace {}20 GeV\xspace data samples evaluated by \unhbox \voidb@x \hbox {Method A}. Where two uncertainties are quoted, the first is statistical and the second is systematic.}}{149}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces Special requirements used to measure the signal and background efficiencies.}}{179}
+\addvspace {10\p@ }

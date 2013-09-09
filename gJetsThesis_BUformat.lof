@@ -1,0 +1,206 @@
+\contentsline {part} {\figurenameToC }{\relax }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Summary of Standard Model particles and forces.}}{3}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Standard Model particles and force interactions.}}{5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Electron-photon interaction.}}{10}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces A recent D\O \nobreakspace {}measurement of the strong coupling constant, $\alpha _{s}$, as a function of \unhbox \voidb@x \hbox {$p_T$}\xspace (top) and at the mass of the $Z$ boson, $M_Z$ (bottom). Measurements from the HERA experiment are overlaid for comparison. The error bars indicate combined statistical + systematic uncertainties\nobreakspace {}\cite {pap:D0_StrongCoupling}.}}{11}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Quark and gluon interaction vertices under QCD.}}{12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{12}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{12}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{12}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Weak interaction vertices of the first generation leptons.}}{14}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{14}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{14}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{14}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces A particle is left-handed or right-handed based on the alignment of its spin ($S$) and momentum ($p$).}}{14}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Unification of the fundamental forces at extremely high energies.}}{16}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces (a) The most significant quadratically divergent contributions to the Higgs mass in the Standard Model and (b) the fine tuning required to obtain an acceptable Higgs mass in the Standard Model with cut-off 10\nobreakspace {}TeV.}}{17}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{17}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{17}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Supersymmetry particles.}}{19}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Topology of a $\gamma $ + jet event. (a) The $\gamma $ and jet are produced back-to-back in the center of mass frame of the incoming partons. (b) The $\gamma $ and jet are boosted (along the $z$ axis into lab frame).}}{24}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{24}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{24}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Leading-order and next-to-leading-order Feynman diagrams for Standard Model prompt photon production. Next-to-leading-order production will have extra gluon radiation and/or gluon exchanges.}}{26}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Annihilation}}}{26}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Compton Scattering}}}{26}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Bremsstrahlung Radiation}}}{26}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Differential cross section of $\ensuremath {p\ensuremath {\mathaccentV {bar}016{p}}\xspace }\xspace \to \gamma +\@mathrm {jet}+X$ measured as a function of the transverse energy of the photon $p_{T}^{\gamma }$. $X$ represents any other physics object(s) not identified in the event. The photon is required to have \unhbox \voidb@x \hbox {$\unhbox \voidb@x \hbox {$p_T$}\xspace >$\nobreakspace {}30.0\nobreakspace {}GeV/$c$}\xspace and \unhbox \voidb@x \hbox {$|\eta |\leq 1.0$}\xspace , and the jet is required to have \unhbox \voidb@x \hbox {$\unhbox \voidb@x \hbox {$p_T$}\xspace >$\nobreakspace {}15.0\nobreakspace {}GeV/$c$}\xspace and \unhbox \voidb@x \hbox {$|\eta |\leq 2.5$}\xspace . Cross sections are measured in four regions of rapidity $y$. For presentation purposes, some distributions are scaled by the factors shown along the side of each curve. The black lines correspond to the theoretical predictions \cite {pap:PhoJetCrosssection_D0}.}}{28}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Cross sections for some physics processes at the Large Hadron Collider (LHC) at CERN \cite {www:LHCPublic} and the Tevatron at Fermilab \cite {www:FNALpublic}. The dotted lines show the energies of the two hadron colliders: 14\nobreakspace {}TeV at the LHC at 14\nobreakspace {}TeV and 1.96\nobreakspace {}TeV at the Tevatron \cite {www:ParticleProductionCrosssections}. Discontinuities seen for certain processes are due to the difference in colliding beams. At the LHC proton-proton beams are collided, whereas at the Tevatron proton-antiproton beams are collided. Processes dominated by gluon interactions are not changed, but the processes dominated by quarks do change, as seen by the discontinuities.}}{29}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Predicted tree-level production mechanisms of GMSB theory.}}{30}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{30}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{30}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Overview of the accelerator complex.}}{32}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Illustration of antiproton production. The dipole magnet directs the antiprotons to the Debuncher and other particles are sent to the beam dump.}}{34}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Beam structure in 36\nobreakspace {}$\times $ 36 mode. Proton bunches go clockwise and are shown as blue marks outside the ring. Antiprotons go counterclockwise and are shown as red marks inside the ring. Detectors are located at B0 (CDF) and D0 (D\O ).}}{35}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces CDF luminosity measurements. (a) Integrated luminosity over time from 2002 to 2010 as a function of the store number, including both delivered luminosity and acquired luminosity (the amount that CDF was able to collect). This is a direct indication of the data-taking efficiency at CDF. (b) Peak instantaneous luminosity for each store over the same time period.}}{38}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Integrated luminosity as function of the store number.}}}{38}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Peak instantaneous luminosity as a function of the store number.}}}{38}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Cutaway view of the CDF detector.}}{39}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Diagram depicting particle interactions with different detectors. These differences help to identify and distinguish particles generated in a hard scattering process.}}{40}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces CDF coordinate system.}}{41}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces A quarter view of the CDF detector indicating the location of different subdetectors with respect to the nominal collision (interaction) point. $\eta $-regions and the projective tower geometry are indicated by lines extending from the interaction point.}}{42}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Graphic depicting the CLC detector (in brown).}}{43}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Tracking coverage of the CDF detector. The figure only shows 1/4 of the detector. The nominal collision point is at coordinate (0,0). }}{44}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces End view of the Layer 00 silicon detector (left), and end view of the SVX-II silicon vertex detector (right).}}{45}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces A section of 1/6 of the COT end plate. The information given for each superlayer is the total number of supercells, the wire orientation (axial or stereo), and the average radius in centimeters. The enlargement shows the sense and field slot geometry in detail.}}{46}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Three COT cells in superlayer 2 looking down along the beamline, $z$. Note that some details are not to drawn to correct scale.}}{47}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces A scintillator tile used in the new preshower detector. The tile is carved with a two-loop spiral groove in which a wavelength-shifting (WLS) fiber is embedded. The fiber carries out the light produced by the tile.}}{48}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Photo of a section of the CDF detector before the new preshower detector installation. One of the calorimeter arches is open for maintenance, and twelve calorimeter wedges are visible. On the inner surface of each of the calorimeter wedge lies an array of scintillator tiles for the preshower detector.}}{48}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces A histogram used in the calibration process to check the energy gain of CPR tiles. The \textsl {dead} channels show up in white. Each tile's gain is compared to the global response, and tiles with low gain will show up in warm colors.}}{49}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces A simulation of a 30\nobreakspace {}GeV electron inducing a cascade in iron. The histogram shows the fractional energy deposition per radiation length, and the curve uses a gamma function fit to the distribution. Circles indicate the number of electrons with total energy greater than 15\nobreakspace {}MeV crossing planes at radiation length $X_{0}/2$ intervals and the squares indicate the number of photons with $E\geq 1.5$\nobreakspace {}MeV crossing planes (scaled down to have the same area as the electron distribution) \cite {pap:PDG}.}}{50}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Schematic drawing of a single central calorimeter wedge.}}{51}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Diagram of a plug calorimeter wedge.}}{51}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces CES wire and strip chamber.}}{52}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces A schematic diagram of the EM Timing system hardware on the CDF detector.}}{55}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Design of the XFT system. The upgrade added the stereo superlayer information to the existing axial system to enhance the track purity. The new fiber optic data path via XTC2$\to $Stereo Finder is merged with the axial system by the Stereo Linker Association Module, which associates the axial track segments with stereo track segments. The track information is then passed onto Level 2 decision-making and to the vertex detector.}}{56}
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Graphical interface of the Finder Flash RAM program.}}{58}
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Dataflow of the XTRP system.}}{60}
+\contentsline {figure}{\numberline {3.25}{\ignorespaces Block diagram of the CDF three-level trigger system. This shows the detector information available at each decision level.}}{62}
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Dataflow of CDF \textsl {deadtimeless} trigger system. Optimized by fully pipelining the system to match the physics event rate to the data acquisition rate.}}{63}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces A simulation of a hard 2-to-2 parton scattering process in a \ensuremath {p\ensuremath {\mathaccentV {bar}016{p}}\xspace }\xspace collision. The \textsl {hard scatter} component consists of the interaction between an incoming parton in the proton and an incoming parton in the antiproton. The interaction produces two outgoing partons (detected as \textsl {jets}), plus ISR and FSR. The \textsl {underlying event} originates from interactions between the remnants of the proton and antiproton.}}{66}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Schematic of a $2\to 2$ hadron interaction.}}{68}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Overview of parton distributions functions: (a) the CTEQ5L PDFs (leading-order) at $Q^{2}=500$\nobreakspace {}GeV$^{2}$ \cite {pap:CTEQ5LPDFs} and (b) the CTEQ6M PDFs (next-to-leading order) at $Q=2$ and $Q=100$\nobreakspace {}GeV \cite {pap:CTEQ6MPDFs}. Several MRST PDFs are overlaid for comparison.}}{69}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {CTEQ5L PDFs}}}{69}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {CTEQ6M PDFs}}}{69}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces (a) Electric lines of force between two charges. (b) Color lines of force between quarks are pulled together into a tube or string because of the self-interaction between the gluons.}}{71}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{71}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{71}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces (a) Overview of hadron production in a $q\mathaccentV {bar}016{q}$ system. (b) Formation of strings between partons. (c) As partons are pulled apart, the potential energy increases and eventually partons are created out of the vacuum to produce colorless hadrons.}}{71}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{71}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{71}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{71}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces CDF detector volume implemented in {\textsc {GEANT}}\xspace .}}{73}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces A geometric cone is used to reconstruct a photon in the detector. Reconstruction requires the photon to be isolated by limiting the extra energy surrounding it.}}{75}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Evolution of a jet. A parton jet is formed soon after the hard collision. A particle jet (or hadron-level jet) is formed after quarks and gluons hadronize into colorless particles. Finally, a calorimeter jet or (detector-level jet) is actually measured and observed in the detector using a clustering algorithm.}}{83}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Schematic of a single CDF calorimeter tower used in jet clustering.}}{83}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces $\eta $-dependent corrections for jet energies: \unhbox \voidb@x \hbox {$p_T$}\xspace balancing in dijet events as a function of $\eta $ for three different clustering cone sizes.}}{88}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Jet energy correction for multiple \ensuremath {p\ensuremath {\mathaccentV {bar}016{p}}\xspace }\xspace interactions as a function of the number of vertices in the event for a clustering cone size of $R=0.4$ (left) and $R=0.7$ (right).}}{88}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Absolute jet energy scale corrections as a function of jet \unhbox \voidb@x \hbox {$p_T$}\xspace for different clustering cone sizes.}}{89}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces The effect of the photon selection requirements is demonstrated using $N-1$ selection requirements. For every variable to which a photon selection requirement is applied, the plot shows a distribution of the variable before any selection requirements are applied, and also after all selection requirements are applied \textit {other than} selection requirement on the variable itself.}}{95}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{95}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{95}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{95}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{95}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{95}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{95}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces The effect of the photon selection requirements is demonstrated using $N-1$ selection requirements. For every variable to which a photon selection requirement is applied, the plot shows a distribution of the variable before any selection requirements are applied, and also after all selection requirements are applied \textit {other than} selection requirement on the variable itself.}}{96}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{96}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{96}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{96}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{96}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{96}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces A photon + jet candidate event as seen in the CDF event display. There are no tracks pointing to the photon candidate and its energy is balanced by the jet. Hence, there is very little or no missing transverse energy, as indicated by the length of the red arrow.}}{97}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Leading-order and next-to-leading-order Feynman diagrams for Standard Model prompt photon production. Next-to-leading-order production will have extra gluon radiation and/or gluon exchanges.}}{103}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Annihilation}}}{103}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Compton Scattering}}}{103}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Bremsstrahlung Radiation}}}{103}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Feynman diagrams of two of the many dijet production processes in the SM. These jets can decay into neutral mesons that eventually decay into one or more photons. This background is very significant as the dijet production cross section is much larger than that of $\gamma $ + jets.}}{106}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{106}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{106}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Reconstruction of a single photon in the detector (left). Energetic photons from light meson decay are identified as a single photon by the CES detector (right).}}{107}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Probability of a jet faking an isolated photon as studied using Monte Carlo events. The rate decreases rapidly with increasing \unhbox \voidb@x \hbox {$E_T$}\xspace of the jet \cite {cdfnote:6363}.}}{107}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Probability for a tight central electron to fake a tight photon as a function of the \unhbox \voidb@x \hbox {$E_T$}\xspace of the generator-level electron. The reference curve indicates the fake rate function fitted to the data and the yellow shaded area indicates the systematic uncertainty.}}{110}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Distribution of the number of vertices in $W$+ jets data and MC events prior to weighting the MC events. The top plot shows the distribution with a logarithmic scale. The bottom plot is the ratio of Data to MC, which shows the actual weights used in the weighting process.}}{113}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Distribution of the \unhbox \voidb@x \hbox {$\hbox to\z@ {\kern .15em /\hss }E_T$}\xspace in $W$+ jets data and MC events prior to weighting the MC events. The top plot shows the distribution with a logarithmic scale. The bottom plot is the ratio of Data to MC, which shows the actual weights used in the weighting process.}}{114}
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Feynman diagram describing diphoton production in the SM.}}{116}
+\contentsline {figure}{\numberline {7.9}{\ignorespaces PMT Asymmetry.}}{118}
+\contentsline {figure}{\numberline {7.10}{\ignorespaces Path of the beam halo.}}{119}
+\contentsline {figure}{\numberline {7.11}{\ignorespaces A sample plot showing the separation of non-collision photons from beam halo and cosmic rays using the beam halo selection variables (no selection requirement on EM timing is applied). Beam halo candidates tend to have a large number of hits in both seed wedge and in the plug hadron calorimeter. Cosmic ray photons are likely to behave like collision photons and have fewer hits.}}{121}
+\contentsline {figure}{\numberline {7.12}{\ignorespaces EM timing distribution of photon candidates.}}{122}
+\contentsline {figure}{\numberline {7.13}{\ignorespaces $\phi $ wedge distribution of the beam halo photon candidates before and after the beam halo selection requirements are applied.}}{123}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{123}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{123}
+\contentsline {figure}{\numberline {7.14}{\ignorespaces The effect of reweighting sideband events used in Method B. Every distribution shown is normalized to unit area for clarity. (a) The photon \unhbox \voidb@x \hbox {$E_T$}\xspace distributions of SM $\gamma $ (pink) and QCD (blue) are shown. The combination of the two distributions, according to the fake photon fraction, is shown in black. After the reweighting, the blue line becomes the green line. The green and black lines do not completely overlap due to the fact that the final weights are taken from a function fit to the binned data. (b) Sample plot showing how the photon \unhbox \voidb@x \hbox {$E_T$}\xspace weighting affects the leading jet in sideband events.}}{128}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{128}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{128}
+\contentsline {figure}{\numberline {7.15}{\ignorespaces Distribution of weights used to reweight the sideband events in Method B. The functional form is $F(E_{T}^{\gamma },f)= p0+p1\times \sqrt {E_{T}^{\gamma }}+p2\times E_{T}^{\gamma }$.}}{129}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Scales of the uncertainties of individual jet energy corrections in the central calorimeter. The total uncertainty is obtained by adding individual corrections in quadrature.}}{131}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Scale of the total percentage PDF uncertainty for different kinematic distributions in the \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace event sample. The distributions are fitted with a first-order polynomial and used to derive the uncertainty in the final (result) distributions. The function is evaluated at the bin center when deriving the uncertainty for a bin. The total uncertainty ranges from a few percent to about 20\%. The minimum uncertainty is set to be 1\%.}}{134}
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Scale of the total percentage $Q^{2}$ uncertainty for different kinematic distributions in the \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace event sample. The distributions are fitted with a first-order polynomial and used to derive the uncertainty in the final (result) distributions. The function is evaluated at the bin center when deriving the uncertainty for a bin. The total uncertainty ranges from a few percent to about 10\%. The minimum uncertainty is set to be 1\%.}}{135}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Size of the total $\alpha _{s}$\xspace uncertainty for different kinematic distributions in the \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace event sample. The distributions are fitted with a polynomial of the form $p0+p1 \times \sqrt {x})/x+p2$ and used to derive the uncertainty in the final (result) distributions. The function is evaluated at the bin center when deriving the uncertainty for a bin. The total uncertainty ranges from a few percent to about 25\%. The minimum uncertainty is set to be no lower than the first nonzero bin's uncertainty.}}{136}
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Weights for sideband reweighting in Method B as a function of $E^{\gamma }_{T}$. The SM $\gamma $ and QCD fractions are varied by $f+\Delta f$ as defined by Eq.\nobreakspace {}7.2\hbox {}. The alternate fit function is of the form $F(E_{T}^{\gamma },f)= p0+p1\times E_{T}^{\gamma }+p2\times (E_{T}^{\gamma })^{2}$.}}{139}
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Total and fractional systematic uncertainties for the \unhbox \voidb@x \hbox {$E_T$}\xspace of the leading photon in \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace events as measured by Method A.}}{140}
+\contentsline {figure}{\numberline {8.7}{\ignorespaces Total and fractional systematic uncertainties for the \unhbox \voidb@x \hbox {$E_T$}\xspace of the leading jet in \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace events as measured by Method A.}}{141}
+\contentsline {figure}{\numberline {8.8}{\ignorespaces Total and fractional systematic uncertainties for the invariant mass of the photon and the leading jet in \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace events as measured by Method A.}}{142}
+\contentsline {figure}{\numberline {8.9}{\ignorespaces Total and fractional systematic uncertainties for the $H_{T}$ measurement in \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace events as measured by Method A.}}{143}
+\contentsline {figure}{\numberline {8.10}{\ignorespaces Total and fractional systematic uncertainties for the \unhbox \voidb@x \hbox {$E_T$}\xspace of the leading photon in \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace events as measured by Method B.}}{144}
+\contentsline {figure}{\numberline {8.11}{\ignorespaces Total and fractional systematic uncertainties for the \unhbox \voidb@x \hbox {$E_T$}\xspace of the leading jet in \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace events as measured by Method B.}}{145}
+\contentsline {figure}{\numberline {8.12}{\ignorespaces Total and fractional systematic uncertainties for the invariant mass of the photon and the leading jet in \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace events as measured by Method B.}}{146}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace events using Method A. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{152}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{152}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{152}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{152}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{152}
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace (top) and \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $2 jets}\xspace (bottom) events using Method A. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{153}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{153}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{153}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{153}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{153}
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $2 jets}\xspace events using Method A. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{154}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{154}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{154}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{154}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{154}
+\contentsline {figure}{\numberline {9.4}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $2 jets}\xspace events using Method A. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in this distribution.}}{155}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{155}
+\contentsline {figure}{\numberline {9.5}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace + \unhbox \voidb@x \hbox {$\hbox to\z@ {\kern .15em /\hss }E_T$}\xspace $>$\nobreakspace {}20\nobreakspace {}GeV\xspace events using \unhbox \voidb@x \hbox {Method A}. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{156}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{156}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{156}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{156}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{156}
+\contentsline {figure}{\numberline {9.6}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace + \unhbox \voidb@x \hbox {$\hbox to\z@ {\kern .15em /\hss }E_T$}\xspace $>$\nobreakspace {}20\nobreakspace {}GeV\xspace (top) and \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $2 jets}\xspace + \unhbox \voidb@x \hbox {$\hbox to\z@ {\kern .15em /\hss }E_T$}\xspace $>$\nobreakspace {}20\nobreakspace {}GeV\xspace (bottom) events using Method A. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{157}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{157}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{157}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{157}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{157}
+\contentsline {figure}{\numberline {9.7}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $2 jets}\xspace + \unhbox \voidb@x \hbox {$\hbox to\z@ {\kern .15em /\hss }E_T$}\xspace $>$\nobreakspace {}20\nobreakspace {}GeV\xspace events using \unhbox \voidb@x \hbox {Method A}. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{158}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{158}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{158}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{158}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{158}
+\contentsline {figure}{\numberline {9.8}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $2 jets}\xspace + \unhbox \voidb@x \hbox {$\hbox to\z@ {\kern .15em /\hss }E_T$}\xspace $>$\nobreakspace {}20\nobreakspace {}GeV\xspace events using \unhbox \voidb@x \hbox {Method A}. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{159}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{159}
+\contentsline {figure}{\numberline {9.9}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace events using \unhbox \voidb@x \hbox {Method B}. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{160}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{160}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{160}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{160}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{160}
+\contentsline {figure}{\numberline {9.10}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace and \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $2 jets}\xspace events using \unhbox \voidb@x \hbox {Method B}. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{161}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{161}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{161}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{161}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{161}
+\contentsline {figure}{\numberline {9.11}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $2 jets}\xspace events using \unhbox \voidb@x \hbox {Method B}. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{162}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{162}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{162}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{162}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{162}
+\contentsline {figure}{\numberline {9.12}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $2 jets}\xspace events using \unhbox \voidb@x \hbox {Method B}. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{163}
+\contentsline {figure}{\numberline {9.13}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace + \unhbox \voidb@x \hbox {$\hbox to\z@ {\kern .15em /\hss }E_T$}\xspace $>$\nobreakspace {}20\nobreakspace {}GeV\xspace events using \unhbox \voidb@x \hbox {Method B}. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{164}
+\contentsline {figure}{\numberline {9.14}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $1 jet}\xspace + \unhbox \voidb@x \hbox {$\hbox to\z@ {\kern .15em /\hss }E_T$}\xspace $>$\nobreakspace {}20\nobreakspace {}GeV\xspace and \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $2 jets}\xspace + \unhbox \voidb@x \hbox {$\hbox to\z@ {\kern .15em /\hss }E_T$}\xspace $>$\nobreakspace {}20\nobreakspace {}GeV\xspace events using \unhbox \voidb@x \hbox {Method B}. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{165}
+\contentsline {figure}{\numberline {9.15}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $2 jets}\xspace + \unhbox \voidb@x \hbox {$\hbox to\z@ {\kern .15em /\hss }E_T$}\xspace $>$\nobreakspace {}20\nobreakspace {}GeV\xspace events using \unhbox \voidb@x \hbox {Method B}. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{166}
+\contentsline {figure}{\numberline {9.16}{\ignorespaces Kinematic distributions of \unhbox \voidb@x \hbox {$\gamma \nobreakspace {}+\geq $2 jets}\xspace + \unhbox \voidb@x \hbox {$\hbox to\z@ {\kern .15em /\hss }E_T$}\xspace $>$\nobreakspace {}20\nobreakspace {}GeV\xspace events using \unhbox \voidb@x \hbox {Method B}. The beginning of Chapter\nobreakspace {}9\hbox {} provides a description of the elements in these distributions.}}{167}
+\contentsline {figure}{\numberline {9.17}{\ignorespaces Invariant mass distribution of the photon and the leading jet in $\gamma $\nobreakspace {}+ $\geq $1 jet events.}}{169}
+\contentsline {figure}{\numberline {9.18}{\ignorespaces Invariant mass distribution of the photon and the leading jet in $\gamma $\nobreakspace {}+ $\geq $2 jets events.}}{170}
+\contentsline {figure}{\numberline {9.19}{\ignorespaces Invariant mass distribution of the photon and the two leading jet in $\gamma $\nobreakspace {}+ $\geq $2 jets events.}}{171}
+\contentsline {figure}{\numberline {9.20}{\ignorespaces Invariant mass distribution of the two leading jets in $\gamma $\nobreakspace {}+ $\geq $2 \unhbox \voidb@x \hbox {jets } events.}}{172}
+\contentsline {figure}{\numberline {9.21}{\ignorespaces Invariant mass distribution of the photon and the leading jet in $\gamma $\nobreakspace {}+ $\geq $1 jet + \unhbox \voidb@x \hbox {\ensuremath {\not \tmspace -\thinmuskip {.1667em}\tmspace -\thinmuskip {.1667em}{E_{T}}}\nobreakspace {}$>$\nobreakspace {}20\nobreakspace {}GeV\xspace } events.}}{173}
+\contentsline {figure}{\numberline {9.22}{\ignorespaces Invariant mass distribution of the photon and the leading jet in $\gamma $\nobreakspace {}+ $\geq $2 jets + \unhbox \voidb@x \hbox {\ensuremath {\not \tmspace -\thinmuskip {.1667em}\tmspace -\thinmuskip {.1667em}{E_{T}}}\nobreakspace {}$>$\nobreakspace {}20\nobreakspace {}GeV\xspace } events.}}{174}
+\contentsline {figure}{\numberline {9.23}{\ignorespaces Invariant mass distribution of the photon and the leading jet in $\gamma $\nobreakspace {}+ $\geq $2 jets + \unhbox \voidb@x \hbox {\ensuremath {\not \tmspace -\thinmuskip {.1667em}\tmspace -\thinmuskip {.1667em}{E_{T}}}\nobreakspace {}$>$\nobreakspace {}20\nobreakspace {}GeV\xspace } events.}}{175}
+\contentsline {figure}{\numberline {9.24}{\ignorespaces Invariant mass distribution of the two leading jets in $\gamma $\nobreakspace {}+ $\geq $2 jets + \unhbox \voidb@x \hbox {\ensuremath {\not \tmspace -\thinmuskip {.1667em}\tmspace -\thinmuskip {.1667em}{E_{T}}}\nobreakspace {}$>$\nobreakspace {}20\nobreakspace {}GeV\xspace } events.}}{176}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Dependence of fake \unhbox \voidb@x \hbox {$\hbox to\z@ {\kern .15em /\hss }E_T$}\xspace on the distribution of energy in an event.}}{183}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Paramaterization of unclustered energy in bins of $\sqrt {\DOTSB \sum@ \slimits@ E_{T}}$.}}{184}
+\contentsline {figure}{\numberline {B.3}{\ignorespaces Jet energy resolution as a function of jet energy.}}{186}
+\contentsline {figure}{\numberline {B.4}{\ignorespaces Parameterization of the jet energy resolution in jet $\eta $ and energy.}}{186}
